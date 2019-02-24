@@ -1,0 +1,200 @@
+> c:\Intel
+> c:\Intel\Logs
+> c:\Intel\Logs\IntelChipset.log
+> c:\Program Files (x86)\Amazon
+> c:\Program Files (x86)\Amazon\AWSCLI
+> c:\Program Files (x86)\Amazon\AWSCLI\ConfigParser.pyc
+> c:\Program Files (x86)\Amazon\AWSCLI\Cookie.pyc
+> c:\Program Files (x86)\Amazon\AWSCLI\HTMLParser.pyc
+> c:\Program Files (x86)\Amazon\AWSCLI\NOTICE.rtf
+> c:\Program Files (x86)\Amazon\AWSCLI\Queue.pyc
+> c:\Program Files (x86)\Amazon\AWSCLI\StringIO.pyc
+> c:\Program Files (x86)\Amazon\AWSCLI\UserDict.pyc
+> c:\Program Files (x86)\Amazon\AWSCLI\_LWPCookieJar.pyc
+> c:\Program Files (x86)\Amazon\AWSCLI\_MozillaCookieJar.pyc
+> c:\Program Files (x86)\Amazon\AWSCLI\__future__.pyc
+> c:\Program Files (x86)\Amazon\AWSCLI\_abcoll.pyc
+> c:\Program Files (x86)\Amazon\AWSCLI\_ctypes.pyc
+> c:\Program Files (x86)\Amazon\AWSCLI\_ctypes.pyd
+> c:\Program Files (x86)\Amazon\AWSCLI\_elementtree.pyc
+> c:\Program Files (x86)\Amazon\AWSCLI\_elementtree.pyd
+> c:\Program Files (x86)\Amazon\AWSCLI\_hashlib.pyc
+> c:\Program Files (x86)\Amazon\AWSCLI\_hashlib.pyd
+> c:\Program Files (x86)\Amazon\AWSCLI\_multiprocessing.pyc
+> c:\Program Files (x86)\Amazon\AWSCLI\_multiprocessing.pyd
+> c:\Program Files (x86)\Amazon\AWSCLI\_socket.pyc
+> c:\Program Files (x86)\Amazon\AWSCLI\_socket.pyd
+> c:\Program Files (x86)\Amazon\AWSCLI\_ssl.pyc
+> c:\Program Files (x86)\Amazon\AWSCLI\_ssl.pyd
+> c:\Program Files (x86)\Amazon\AWSCLI\_strptime.pyc
+> c:\Program Files (x86)\Amazon\AWSCLI\_threading_local.pyc
+> c:\Program Files (x86)\Amazon\AWSCLI\_weakrefset.pyc
+> c:\Program Files (x86)\Amazon\AWSCLI\abc.pyc
+> c:\Program Files (x86)\Amazon\AWSCLI\argparse.pyc
+> c:\Program Files (x86)\Amazon\AWSCLI\atexit.pyc
+> c:\Program Files (x86)\Amazon\AWSCLI\aws.exe
+> c:\Program Files (x86)\Amazon\AWSCLI\awscli
+> c:\Program Files (x86)\Amazon\AWSCLI\awscli\__init__.pyc
+> c:\Program Files (x86)\Amazon\AWSCLI\awscli\argparser.pyc
+> c:\Program Files (x86)\Amazon\AWSCLI\awscli\argprocess.pyc
+> c:\Program Files (x86)\Amazon\AWSCLI\awscli\arguments.pyc
+> c:\Program Files (x86)\Amazon\AWSCLI\awscli\clidocs.pyc
+> c:\Program Files (x86)\Amazon\AWSCLI\awscli\clidriver.pyc
+> c:\Program Files (x86)\Amazon\AWSCLI\awscli\compat.pyc
+> c:\Program Files (x86)\Amazon\AWSCLI\awscli\completer.pyc
+> c:\Program Files (x86)\Amazon\AWSCLI\awscli\customizations
+> c:\Program Files (x86)\Amazon\AWSCLI\awscli\customizations\__init__.pyc
+> c:\Program Files (x86)\Amazon\AWSCLI\awscli\customizations\addexamples.pyc
+> c:\Program Files (x86)\Amazon\AWSCLI\awscli\customizations\argrename.pyc
+> c:\Program Files (x86)\Amazon\AWSCLI\awscli\customizations\arguments.pyc
+> c:\Program Files (x86)\Amazon\AWSCLI\awscli\customizations\assumerole.pyc
+> c:\Program Files (x86)\Amazon\AWSCLI\awscli\customizations\cliinputjson.pyc
+> c:\Program Files (x86)\Amazon\AWSCLI\awscli\customizations\cloudsearch.pyc
+> c:\Program Files (x86)\Amazon\AWSCLI\awscli\customizations\cloudsearchdomain.pyc
+> c:\Program Files (x86)\Amazon\AWSCLI\awscli\customizations\cloudtrail.pyc
+> c:\Program Files (x86)\Amazon\AWSCLI\awscli\customizations\codedeploy.pyc
+> c:\Program Files (x86)\Amazon\AWSCLI\awscli\customizations\commands.pyc
+> c:\Program Files (x86)\Amazon\AWSCLI\awscli\customizations\configservice
+> c:\Program Files (x86)\Amazon\AWSCLI\awscli\customizations\configservice\__init__.pyc
+> c:\Program Files (x86)\Amazon\AWSCLI\awscli\customizations\configservice\getstatus.pyc
+> c:\Program Files (x86)\Amazon\AWSCLI\awscli\customizations\configservice\rename_cmd.pyc
+> c:\Program Files (x86)\Amazon\AWSCLI\awscli\customizations\configservice\subscribe.pyc
+> c:\Program Files (x86)\Amazon\AWSCLI\awscli\customizations\configure.pyc
+> c:\Program Files (x86)\Amazon\AWSCLI\awscli\customizations\datapipeline
+> c:\Program Files (x86)\Amazon\AWSCLI\awscli\customizations\datapipeline\__init__.pyc
+> c:\Program Files (x86)\Amazon\AWSCLI\awscli\customizations\datapipeline\translator.pyc
+> c:\Program Files (x86)\Amazon\AWSCLI\awscli\customizations\dryrundocs.pyc
+> c:\Program Files (x86)\Amazon\AWSCLI\awscli\customizations\ec2addcount.pyc
+> c:\Program Files (x86)\Amazon\AWSCLI\awscli\customizations\ec2bundleinstance.pyc
+> c:\Program Files (x86)\Amazon\AWSCLI\awscli\customizations\ec2decryptpassword.pyc
+> c:\Program Files (x86)\Amazon\AWSCLI\awscli\customizations\ec2protocolarg.pyc
+> c:\Program Files (x86)\Amazon\AWSCLI\awscli\customizations\ec2runinstances.pyc
+> c:\Program Files (x86)\Amazon\AWSCLI\awscli\customizations\ec2secgroupsimplify.pyc
+> c:\Program Files (x86)\Amazon\AWSCLI\awscli\customizations\emr
+> c:\Program Files (x86)\Amazon\AWSCLI\awscli\customizations\emr\__init__.pyc
+> c:\Program Files (x86)\Amazon\AWSCLI\awscli\customizations\emr\addinstancegroups.pyc
+> c:\Program Files (x86)\Amazon\AWSCLI\awscli\customizations\emr\addsteps.pyc
+> c:\Program Files (x86)\Amazon\AWSCLI\awscli\customizations\emr\addtags.pyc
+> c:\Program Files (x86)\Amazon\AWSCLI\awscli\customizations\emr\applicationutils.pyc
+> c:\Program Files (x86)\Amazon\AWSCLI\awscli\customizations\emr\argumentschema.pyc
+> c:\Program Files (x86)\Amazon\AWSCLI\awscli\customizations\emr\constants.pyc
+> c:\Program Files (x86)\Amazon\AWSCLI\awscli\customizations\emr\createcluster.pyc
+> c:\Program Files (x86)\Amazon\AWSCLI\awscli\customizations\emr\createdefaultroles.pyc
+> c:\Program Files (x86)\Amazon\AWSCLI\awscli\customizations\emr\describecluster.pyc
+> c:\Program Files (x86)\Amazon\AWSCLI\awscli\customizations\emr\emr.pyc
+> c:\Program Files (x86)\Amazon\AWSCLI\awscli\customizations\emr\emrutils.pyc
+> c:\Program Files (x86)\Amazon\AWSCLI\awscli\customizations\emr\exceptions.pyc
+> c:\Program Files (x86)\Amazon\AWSCLI\awscli\customizations\emr\hbase.pyc
+> c:\Program Files (x86)\Amazon\AWSCLI\awscli\customizations\emr\hbaseutils.pyc
+> c:\Program Files (x86)\Amazon\AWSCLI\awscli\customizations\emr\helptext.pyc
+> c:\Program Files (x86)\Amazon\AWSCLI\awscli\customizations\emr\installapplications.pyc
+> c:\Program Files (x86)\Amazon\AWSCLI\awscli\customizations\emr\instancegroupsutils.pyc
+> c:\Program Files (x86)\Amazon\AWSCLI\awscli\customizations\emr\listclusters.pyc
+> c:\Program Files (x86)\Amazon\AWSCLI\awscli\customizations\emr\modifyclusterattributes.pyc
+> c:\Program Files (x86)\Amazon\AWSCLI\awscli\customizations\emr\ssh.pyc
+> c:\Program Files (x86)\Amazon\AWSCLI\awscli\customizations\emr\sshutils.pyc
+> c:\Program Files (x86)\Amazon\AWSCLI\awscli\customizations\emr\steputils.pyc
+> c:\Program Files (x86)\Amazon\AWSCLI\awscli\customizations\emr\terminateclusters.pyc
+> c:\Program Files (x86)\Amazon\AWSCLI\awscli\customizations\flatten.pyc
+> c:\Program Files (x86)\Amazon\AWSCLI\awscli\customizations\generatecliskeleton.pyc
+> c:\Program Files (x86)\Amazon\AWSCLI\awscli\customizations\globalargs.pyc
+> c:\Program Files (x86)\Amazon\AWSCLI\awscli\customizations\iamvirtmfa.pyc
+> c:\Program Files (x86)\Amazon\AWSCLI\awscli\customizations\opsworks.pyc
+> c:\Program Files (x86)\Amazon\AWSCLI\awscli\customizations\paginate.pyc
+> c:\Program Files (x86)\Amazon\AWSCLI\awscli\customizations\preview.pyc
+> c:\Program Files (x86)\Amazon\AWSCLI\awscli\customizations\putmetricdata.pyc
+> c:\Program Files (x86)\Amazon\AWSCLI\awscli\customizations\rds.pyc
+> c:\Program Files (x86)\Amazon\AWSCLI\awscli\customizations\removals.pyc
+> c:\Program Files (x86)\Amazon\AWSCLI\awscli\customizations\s3
+> c:\Program Files (x86)\Amazon\AWSCLI\awscli\customizations\s3\__init__.pyc
+> c:\Program Files (x86)\Amazon\AWSCLI\awscli\customizations\s3\comparator.pyc
+> c:\Program Files (x86)\Amazon\AWSCLI\awscli\customizations\s3\executor.pyc
+> c:\Program Files (x86)\Amazon\AWSCLI\awscli\customizations\s3\fileformat.pyc
+> c:\Program Files (x86)\Amazon\AWSCLI\awscli\customizations\s3\filegenerator.pyc
+> c:\Program Files (x86)\Amazon\AWSCLI\awscli\customizations\s3\fileinfo.pyc
+> c:\Program Files (x86)\Amazon\AWSCLI\awscli\customizations\s3\fileinfobuilder.pyc
+> c:\Program Files (x86)\Amazon\AWSCLI\awscli\customizations\s3\filters.pyc
+> c:\Program Files (x86)\Amazon\AWSCLI\awscli\customizations\s3\s3.pyc
+> c:\Program Files (x86)\Amazon\AWSCLI\awscli\customizations\s3\s3handler.pyc
+> c:\Program Files (x86)\Amazon\AWSCLI\awscli\customizations\s3\subcommands.pyc
+> c:\Program Files (x86)\Amazon\AWSCLI\awscli\customizations\s3\syncstrategy
+> c:\Program Files (x86)\Amazon\AWSCLI\awscli\customizations\s3\syncstrategy\__init__.pyc
+> c:\Program Files (x86)\Amazon\AWSCLI\awscli\customizations\s3\syncstrategy\base.pyc
+> c:\Program Files (x86)\Amazon\AWSCLI\awscli\customizations\s3\syncstrategy\delete.pyc
+> c:\Program Files (x86)\Amazon\AWSCLI\awscli\customizations\s3\syncstrategy\exacttimestamps.pyc
+> c:\Program Files (x86)\Amazon\AWSCLI\awscli\customizations\s3\syncstrategy\register.pyc
+> c:\Program Files (x86)\Amazon\AWSCLI\awscli\customizations\s3\syncstrategy\sizeonly.pyc
+> c:\Program Files (x86)\Amazon\AWSCLI\awscli\customizations\s3\tasks.pyc
+> c:\Program Files (x86)\Amazon\AWSCLI\awscli\customizations\s3\transferconfig.pyc
+> c:\Program Files (x86)\Amazon\AWSCLI\awscli\customizations\s3\utils.pyc
+> c:\Program Files (x86)\Amazon\AWSCLI\awscli\customizations\s3endpoint.pyc
+> c:\Program Files (x86)\Amazon\AWSCLI\awscli\customizations\s3errormsg.pyc
+> c:\Program Files (x86)\Amazon\AWSCLI\awscli\customizations\scalarparse.pyc
+> c:\Program Files (x86)\Amazon\AWSCLI\awscli\customizations\service.pyc
+> c:\Program Files (x86)\Amazon\AWSCLI\awscli\customizations\sessendemail.pyc
+> c:\Program Files (x86)\Amazon\AWSCLI\awscli\customizations\streamingoutputarg.pyc
+> c:\Program Files (x86)\Amazon\AWSCLI\awscli\customizations\toplevelbool.pyc
+> c:\Program Files (x86)\Amazon\AWSCLI\awscli\customizations\utils.pyc
+> c:\Program Files (x86)\Amazon\AWSCLI\awscli\customizations\waiters.pyc
+> c:\Program Files (x86)\Amazon\AWSCLI\awscli\data
+> c:\Program Files (x86)\Amazon\AWSCLI\awscli\data\cli.json
+> c:\Program Files (x86)\Amazon\AWSCLI\awscli\errorhandler.pyc
+> c:\Program Files (x86)\Amazon\AWSCLI\awscli\examples
+> c:\Program Files (x86)\Amazon\AWSCLI\awscli\examples\autoscaling
+> c:\Program Files (x86)\Amazon\AWSCLI\awscli\examples\autoscaling\attach-instances.rst
+> c:\Program Files (x86)\Amazon\AWSCLI\awscli\examples\autoscaling\create-auto-scaling-group.rst
+> c:\Program Files (x86)\Amazon\AWSCLI\awscli\examples\autoscaling\create-launch-configuration.rst
+> c:\Program Files (x86)\Amazon\AWSCLI\awscli\examples\autoscaling\create-or-update-tags.rst
+> c:\Program Files (x86)\Amazon\AWSCLI\awscli\examples\autoscaling\delete-auto-scaling-group.rst
+> c:\Program Files (x86)\Amazon\AWSCLI\awscli\examples\autoscaling\delete-launch-configuration.rst
+> c:\Program Files (x86)\Amazon\AWSCLI\awscli\examples\autoscaling\delete-notification-configuration.rst
+> c:\Program Files (x86)\Amazon\AWSCLI\awscli\examples\autoscaling\delete-policy.rst
+> c:\Program Files (x86)\Amazon\AWSCLI\awscli\examples\autoscaling\delete-scheduled-action.rst
+> c:\Program Files (x86)\Amazon\AWSCLI\awscli\examples\autoscaling\delete-tags.rst
+> c:\Program Files (x86)\Amazon\AWSCLI\awscli\examples\autoscaling\describe-account-limits.rst
+> c:\Program Files (x86)\Amazon\AWSCLI\awscli\examples\autoscaling\describe-adjustment-types.rst
+> c:\Program Files (x86)\Amazon\AWSCLI\awscli\examples\autoscaling\describe-auto-scaling-groups.rst
+> c:\Program Files (x86)\Amazon\AWSCLI\awscli\examples\autoscaling\describe-auto-scaling-instances.rst
+> c:\Program Files (x86)\Amazon\AWSCLI\awscli\examples\autoscaling\describe-auto-scaling-notification-types.rst
+> c:\Program Files (x86)\Amazon\AWSCLI\awscli\examples\autoscaling\describe-launch-configurations.rst
+> c:\Program Files (x86)\Amazon\AWSCLI\awscli\examples\autoscaling\describe-metric-collection-types.rst
+> c:\Program Files (x86)\Amazon\AWSCLI\awscli\examples\autoscaling\describe-notification-configurations.rst
+> c:\Program Files (x86)\Amazon\AWSCLI\awscli\examples\autoscaling\describe-policies.rst
+> c:\Program Files (x86)\Amazon\AWSCLI\awscli\examples\autoscaling\describe-scaling-activities.rst
+> c:\Program Files (x86)\Amazon\AWSCLI\awscli\examples\autoscaling\describe-scaling-process-types.rst
+> c:\Program Files (x86)\Amazon\AWSCLI\awscli\examples\autoscaling\describe-scheduled-actions.rst
+> c:\Program Files (x86)\Amazon\AWSCLI\awscli\examples\autoscaling\describe-tags.rst
+> c:\Program Files (x86)\Amazon\AWSCLI\awscli\examples\autoscaling\describe-termination-policy-types.rst
+> c:\Program Files (x86)\Amazon\AWSCLI\awscli\examples\autoscaling\disable-metrics-collection.rst
+> c:\Program Files (x86)\Amazon\AWSCLI\awscli\examples\autoscaling\enable-metrics-collection.rst
+> c:\Program Files (x86)\Amazon\AWSCLI\awscli\examples\autoscaling\execute-policy.rst
+> c:\Intel\Logs\log1.txt
+> c:/zabbix
+> c:/zabbix/install_zabbix.bat
+> c:/zabbix/log
+> c:/zabbix/log/zabbix_agentd.log
+> c:/zabbix/log/zabbix_agentd.log.old
+> c:/zabbix/runsys.bat
+> c:/zabbix/scripts
+> c:/zabbix/scripts/check_for_missing_dlls.ps1
+> c:/zabbix/scripts/check_puppet_hostname.ps1
+> c:/zabbix/scripts/is_puppet_running.ps1
+> c:/zabbix/scripts/mma.k
+> c:/zabbix/scripts/testmma.k
+> c:/zabbix/upgrade_zabbix.bat
+> c:/zabbix/win32
+> c:/zabbix/win32/dev
+> c:/zabbix/win32/dev/zabbix_sender.dll
+> c:/zabbix/win32/dev/zabbix_sender.lib
+> c:/zabbix/win32/zabbix_agentd.exe
+> c:/zabbix/win32/zabbix_get.exe
+> c:/zabbix/win32/zabbix_sender.exe
+> c:/zabbix/win64
+> c:/zabbix/win64/dev
+> c:/zabbix/win64/dev/zabbix_sender.dll
+> c:/zabbix/win64/dev/zabbix_sender.lib
+> c:/zabbix/win64/zabbix_agentd.exe
+> c:/zabbix/win64/zabbix_get.exe
+> c:/zabbix/win64/zabbix_sender.exe
+> c:/zabbix/zabbix_agentd.conf.d
+> c:/zabbix/zabbix_agentd.win.conf
